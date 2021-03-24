@@ -225,6 +225,13 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
+                                text="✨ Owner",
+                                url="https://t.me/VckyouuBitch",
+                                )
+                            ),
+                        ],
+                        ]
+                            InlineKeyboardButton(
                                 text="My Group",
                                 url=f"https://t.me/CariTemanRandom",
                             ),
