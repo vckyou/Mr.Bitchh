@@ -217,7 +217,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Add AstrakoBot to your group",
+                                text="Masukan Mr.Bitchh Ke Group Anda!",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -225,20 +225,20 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Support Group",
-                                url=f"https://t.me/AstrakoBotSupport",
+                                text="My Group",
+                                url=f"https://t.me/CariTemanRandom",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Getting started guide",
-                                url="https://t.me/OnePunchUpdates/29",
+                                text="My Channel",
+                                url="https://t.me/Vckyouuu/29",
                             )
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Source code",
-                                url="https://github.com/Astrako/AstrakoBot",
+                                text="Owner",
+                                url="https://t.me/Vckyouuu",
                             )
                         ],
                     ]
