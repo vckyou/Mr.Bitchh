@@ -7,7 +7,7 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 Originally a SaitamaRobot fork, AstrakoBot evolved further and was built to be more robust. 
 
-Can be found on telegram as [AstrakoBot](https://t.me/AstrakoBot).
+Can be found on telegram as [Vckyy](https://t.me/Vckyouu).
 
 The Support group can be reached out to at [AstrakoBotSupport](https://t.me/AstrakoBotSupport), where you can ask for help about [AstrakoBot](https://t.me/AstrakoBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
@@ -31,7 +31,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Astrako/AstrakoBot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vckyou/Mr.Bitchh.git)
 
 </details>  
 <details>
